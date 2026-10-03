@@ -167,3 +167,26 @@ ai-customer-experience-improvement/
 └── templates/
     └── customer-feedback-template.csv
 ```
+
+## How to Use This Project
+
+This project can be used as a repeatable workflow for turning customer feedback into practical Customer Success improvements.
+
+1. Collect customer feedback.
+2. Add the feedback to the customer feedback template.
+3. Use the AI analysis prompt to analyze the feedback.
+4. Identify potential recurring patterns.
+5. Explore possible root causes.
+6. Assess customer and business impact.
+7. Develop improvement options.
+8. Conduct human review and verify important assumptions.
+9. Create an improvement action plan.
+10. Measure the results and learn from the outcome.
+
+### Human-in-the-Loop
+
+AI supports the analysis, but it does not make the final decision.
+
+A Customer Success professional reviews the evidence, verifies important assumptions, determines what needs further investigation, and decides which improvement actions should be tested.
+
+The goal is to use AI to make customer feedback easier to understand and act on while keeping human judgment at the center.
