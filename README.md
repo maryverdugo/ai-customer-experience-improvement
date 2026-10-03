@@ -134,3 +134,11 @@ The AI is not the final decision-maker. A Customer Success professional reviews 
 The reusable prompt is available here:
 
 [`docs/ai-analysis-prompt.md`](docs/ai-analysis-prompt.md)
+
+## Sample AI Analysis Run
+
+This example shows the AI analyzing fictional customer feedback, identifying potential patterns, exploring possible root causes, assessing customer impact, and preparing improvement options for human review.
+
+The complete example is available here:
+
+[View the Sample AI Analysis Run](examples/sample-ai-analysis-run.md)
