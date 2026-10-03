@@ -113,3 +113,24 @@ This project uses fictional customer data for demonstration purposes. The workfl
 Created by Mary Verdugo, a customer service professional with more than 30 years of experience helping customers, solving problems, and improving the customer experience.
 
 This project combines that customer-focused experience with AI-assisted analysis and workflow design.
+
+## AI Analysis Prompt
+
+This project includes a reusable AI analysis prompt that can be used to turn customer feedback into structured Customer Success insights.
+
+The prompt guides the AI to:
+
+- Identify recurring customer concerns
+- Categorize customer issues
+- Separate facts from assumptions
+- Explore possible root causes
+- Assess customer and business impact
+- Suggest improvement options
+- Identify what needs human verification
+- Prepare findings for human review
+
+The AI is not the final decision-maker. A Customer Success professional reviews the evidence, validates important assumptions, and determines what action should be taken.
+
+The reusable prompt is available here:
+
+[`docs/ai-analysis-prompt.md`](docs/ai-analysis-prompt.md)
