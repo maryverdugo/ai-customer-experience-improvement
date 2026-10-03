@@ -142,3 +142,28 @@ This example shows the AI analyzing fictional customer feedback, identifying pot
 The complete example is available here:
 
 [View the Sample AI Analysis Run](examples/sample-ai-analysis-run.md)
+
+
+## Project Structure
+
+```text
+ai-customer-experience-improvement/
+│
+├── README.md
+│
+├── docs/
+│   ├── ai-analysis-prompt.md
+│   ├── analysis-framework.md
+│   ├── human-review-guide.md
+│   ├── improvement-plan.md
+│   └── workflow.md
+│
+├── examples/
+│   ├── customer-success-case-study.md
+│   ├── sample-ai-analysis-run.md
+│   ├── sample-analysis.md
+│   └── sample-customer-feedback.md
+│
+└── templates/
+    └── customer-feedback-template.csv
+```
